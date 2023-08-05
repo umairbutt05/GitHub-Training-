@@ -8,3 +8,4 @@ git restore
 git log --oneline
 git log --oneline --pretty
 git remote -v
+git config --global
